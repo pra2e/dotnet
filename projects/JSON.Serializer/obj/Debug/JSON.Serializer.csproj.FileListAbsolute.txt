@@ -1,0 +1,10 @@
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\bin\Debug\JSON.Serializer.exe.config
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\bin\Debug\JSON.Serializer.exe
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\bin\Debug\JSON.Serializer.pdb
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\obj\Debug\JSON.Serializer.csprojAssemblyReference.cache
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\obj\Debug\JSON.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\obj\Debug\JSON.Serializer.csproj.CopyComplete
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\obj\Debug\JSON.Serializer.exe
+C:\Users\pra2e\Desktop\dev\dotnet\projects\JSON.Serializer\obj\Debug\JSON.Serializer.pdb
