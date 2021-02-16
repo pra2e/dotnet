@@ -1,0 +1,5 @@
+C:\Users\pra2e\Desktop\dev\dotnet\projects\NumberGuesser\bin\Debug\netcoreapp3.1\publish\NumberGuesser.exe
+C:\Users\pra2e\Desktop\dev\dotnet\projects\NumberGuesser\bin\Debug\netcoreapp3.1\publish\NumberGuesser.dll
+C:\Users\pra2e\Desktop\dev\dotnet\projects\NumberGuesser\bin\Debug\netcoreapp3.1\publish\NumberGuesser.deps.json
+C:\Users\pra2e\Desktop\dev\dotnet\projects\NumberGuesser\bin\Debug\netcoreapp3.1\publish\NumberGuesser.runtimeconfig.json
+C:\Users\pra2e\Desktop\dev\dotnet\projects\NumberGuesser\bin\Debug\netcoreapp3.1\publish\NumberGuesser.pdb

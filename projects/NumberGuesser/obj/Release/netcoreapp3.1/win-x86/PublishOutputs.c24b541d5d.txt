@@ -1,0 +1,2 @@
+C:\Users\pra2e\Desktop\dev\dotnet\projects\NumberGuesser\bin\Release\netcoreapp3.1\publish\NumberGuesser.pdb
+C:\Users\pra2e\Desktop\dev\dotnet\projects\NumberGuesser\bin\Release\netcoreapp3.1\publish\NumberGuesser.exe
