@@ -15,8 +15,8 @@ using Newtonsoft.Json;          // JSON Package needed to serialize JSON strings
 namespace JSON.Serializer {
     public class Student {
         public string name {
-            get;
-            set;
+            get;     // auto property --- "return this.name"
+            set;     // auto property --- "this.name = value"
         }
     }
     public class Universities {
@@ -24,11 +24,12 @@ namespace JSON.Serializer {
             get;
             set;
         }
-        public IList<Student> students {
+        public IList <Student> students {
             get;
             set;
         }
     }
+    // ClassUniversities contains...
     public class ClassUniversities {
         public Universities universities {
             get;
@@ -40,9 +41,16 @@ namespace JSON.Serializer {
     class Program {
         // Entry point
         static void Main(string[] args) {
+            // Create an instance (university1 obj) of ClassUniversities class
+            ClassUniversities university1 = new ClassUniversities();
+            // Create an instance of Universities class
+            university1.universities = new Universities();
 
-            // @TODO kbae --- Add code here...
-            // https://www.c-sharpcorner.com/article/working-with-json-in-C-Sharp/
+            // Create a list of objects
+            List <Student> listStudent = new List<Student>();
+            Student student1 = new Student {     // collection initializer?  @TODO kbae -- continue here...
+                name = "Eric Bae"
+            }
 
         }
     }
