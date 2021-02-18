@@ -48,10 +48,20 @@ namespace JSON.Serializer {
 
             // Create a list of objects
             List <Student> listStudent = new List<Student>();
-            Student student1 = new Student {     // collection initializer?  @TODO kbae -- continue here...
-                name = "Eric Bae"
-            }
+            Student student1 = new Student {
+                name = "Eric Bae"               // object & collection initializer shortcut
+            };
+            Student student2 = new Student {
+                name = "Randall Clay"   
+            };
+            listStudent.Add(student1);
+            listStudent.Add(student2);
 
+            university1.universities.students = listStudent;
+            string json = JsonConvert.SerializeObject(university1);
+
+            Console.WriteLine(json);
+            Console.ReadLine();
         }
     }
 }
