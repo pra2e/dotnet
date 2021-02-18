@@ -1,0 +1,10 @@
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\bin\Debug\WinFormApp.REST.Client.exe.config
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\bin\Debug\WinFormApp.REST.Client.exe
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\bin\Debug\WinFormApp.REST.Client.pdb
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\obj\Debug\WinFormApp.REST.Client.csprojAssemblyReference.cache
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\obj\Debug\WinFormApp.REST.Client.Form1.resources
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\obj\Debug\WinFormApp.REST.Client.Properties.Resources.resources
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\obj\Debug\WinFormApp.REST.Client.csproj.GenerateResource.cache
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\obj\Debug\WinFormApp.REST.Client.csproj.CoreCompileInputs.cache
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\obj\Debug\WinFormApp.REST.Client.exe
+C:\Users\pra2e\Desktop\dev\dotnet\projects\WinFormApp.REST.Client\obj\Debug\WinFormApp.REST.Client.pdb
